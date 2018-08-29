@@ -19,3 +19,5 @@
 [PHP 框架中间件实现](https://juejin.im/post/5b6e37346fb9a04f8b788ded)
 
 [没错，这就是面向对象编程（设计模式）需要遵循的 6 个基本原则](https://laravel-china.org/articles/16260/yes-thats-the-6-basic-principles-that-object-oriented-programming-design-patterns-need-to-follow)
+
+[Laravel 之嵌套事务 transactions 实现](https://laravel-china.org/articles/15618/transactions-implementation-of-nested-transaction-for-laravel)
