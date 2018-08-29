@@ -21,3 +21,5 @@
 [没错，这就是面向对象编程（设计模式）需要遵循的 6 个基本原则](https://laravel-china.org/articles/16260/yes-thats-the-6-basic-principles-that-object-oriented-programming-design-patterns-need-to-follow)
 
 [Laravel 之嵌套事务 transactions 实现](https://laravel-china.org/articles/15618/transactions-implementation-of-nested-transaction-for-laravel)
+
+[什么是 N+1 问题，以及如何解决 Laravel 的 N+1 问题？](https://laravel-china.org/topics/15077/what-is-the-n1-problem-and-how-to-solve-the-n1-problem-in-laravel)
