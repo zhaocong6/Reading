@@ -31,3 +31,5 @@
 [laravel Eloquent ORM解析](https://xiaoxingping.top/blog/8/laravel-Eloquent-ORM-jie-xi)
 
 [记住，永远不要在 MySQL 中使用 “utf8” 编码](https://laravel-china.org/topics/13864/remember-never-use-utf8-encoding-in-mysql)
+
+[Laravel 的中大型專案架構](https://oomusou.io/laravel/architecture/)
