@@ -29,3 +29,5 @@
 [mysql关键字 exists 与 in](https://blog.csdn.net/u012410733/article/details/70217674)
 
 [laravel Eloquent ORM解析](https://xiaoxingping.top/blog/8/laravel-Eloquent-ORM-jie-xi)
+
+[记住，永远不要在 MySQL 中使用 “utf8” 编码](https://laravel-china.org/topics/13864/remember-never-use-utf8-encoding-in-mysql)
