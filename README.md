@@ -33,3 +33,10 @@
 [记住，永远不要在 MySQL 中使用 “utf8” 编码](https://laravel-china.org/topics/13864/remember-never-use-utf8-encoding-in-mysql)
 
 [Laravel 的中大型專案架構](https://oomusou.io/laravel/architecture/)
+
+[理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
+
+[令人困惑的strtotime](http://www.laruence.com/2018/07/31/3207.html)
+
+[在PHP中使用协程实现多任务调度](http://www.laruence.com/2015/05/28/3038.html)
+
