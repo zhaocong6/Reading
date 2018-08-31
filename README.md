@@ -39,6 +39,8 @@
 ## tcp/ip
 [跟着动画来学习TCP三次握手和四次挥手](https://juejin.im/post/5b29d2c4e51d4558b80b1d8c)
 
+[看图学HTTPS](https://blog.liuxuan.site/2018/05/21/learn_https_through_photos/)
+
 ## mysql
 
 [《阿里巴巴JAVA开发手册》里面写超过三张表禁止join 这是为什么？这样的话那sql要怎么写？](https://www.zhihu.com/question/56236190/answer/153450286)
