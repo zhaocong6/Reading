@@ -24,13 +24,14 @@
 
 [laravel Eloquent ORM解析](https://xiaoxingping.top/blog/8/laravel-Eloquent-ORM-jie-xi)
 
-[20 个 Laravel Eloquent 必备的实用技巧](https://laravel-china.org/topics/9991/20-laravel-eloquent-necessary-practical-skills)
-
 [Laravel 之嵌套事务 transactions 实现](https://laravel-china.org/articles/15618/transactions-implementation-of-nested-transaction-for-laravel)
 
 [什么是 N+1 问题，以及如何解决 Laravel 的 N+1 问题？](https://laravel-china.org/topics/15077/what-is-the-n1-problem-and-how-to-solve-the-n1-problem-in-laravel)
 
 [Laravel 的中大型專案架構](https://oomusou.io/laravel/architecture/)
+
+[Eloquent 查询构造器 备忘录](http://laragems.com/post/eloquent-cheat-sheet)
+
 
 ## redis
 
