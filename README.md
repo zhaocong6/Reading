@@ -32,6 +32,11 @@
 
 [Eloquent 查询构造器 备忘录](http://laragems.com/post/eloquent-cheat-sheet)
 
+[Artisan 命令行](https://laravel-china.org/docs/laravel/5.1/artisan/1058)
+
+[PHP 开发者该知道的 5 个 Composer 小技巧](https://www.phpcomposer.com/5-features-to-know-about-composer-php/)
+
+[PHP / Laravel 社区文档](https://laravel-china.org/docs)
 
 ## redis
 
