@@ -55,6 +55,8 @@
 
 [记住，永远不要在 MySQL 中使用 “utf8” 编码](https://laravel-china.org/topics/13864/remember-never-use-utf8-encoding-in-mysql)
 
+[数据库中查询记录时是否每次只能使用一个索引？](https://segmentfault.com/q/1010000003880137)
+
 ## git
 
 [Git教程(廖雪峰)](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
