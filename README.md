@@ -57,6 +57,8 @@
 
 [数据库中查询记录时是否每次只能使用一个索引？](https://segmentfault.com/q/1010000003880137)
 
+[MySQL 优化之 index merge(索引合并)](http://www.cnblogs.com/digdeep/archive/2015/11/18/4975977.html)
+
 ## git
 
 [Git教程(廖雪峰)](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
