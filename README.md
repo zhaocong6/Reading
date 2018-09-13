@@ -15,6 +15,8 @@
 
 [在PHP中使用协程实现多任务调度](http://www.laruence.com/2015/05/28/3038.html)
 
+[垃圾回收机制](http://php.net/manual/zh/features.gc.php)
+
 ## laravel
 [Laravel 中多态关系的表单验证](https://laravel-china.org/articles/12449/form-validation-of-polymorphic-relationships-in-laravel)
 
@@ -62,6 +64,9 @@
 ## git
 
 [Git教程(廖雪峰)](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
+## linux
+[Linux IO模式及 select、poll、epoll详解](https://segmentfault.com/a/1190000003063859?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare&from=timeline&isappinstalled=0#articleHeader20)
 
 ## 编程思想
 
