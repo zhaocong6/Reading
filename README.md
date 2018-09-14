@@ -65,6 +65,10 @@
 
 [Git教程(廖雪峰)](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
+## nginx
+
+[nginx平台初探](http://tengine.taobao.org/book/chapter_2.html#connection)
+
 ## linux
 [Linux IO模式及 select、poll、epoll详解](https://segmentfault.com/a/1190000003063859?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare&from=timeline&isappinstalled=0#articleHeader20)
 
