@@ -46,6 +46,8 @@
 
 [互联网公司面试必问的Redis题目](https://juejin.im/post/5b99d4bce51d450e7a24b66e#heading-0)
 
+[Redis 事务与 Redis Lua 脚本的编写](http://techlog.cn/article/list/10183180)
+
 ## tcp/ip
 [跟着动画来学习TCP三次握手和四次挥手](https://juejin.im/post/5b29d2c4e51d4558b80b1d8c)
 
