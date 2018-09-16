@@ -48,6 +48,8 @@
 
 [Redis 事务与 Redis Lua 脚本的编写](http://techlog.cn/article/list/10183180)
 
+[Redis 设计与实现](http://redisbook.com/)
+
 ## tcp/ip
 [跟着动画来学习TCP三次握手和四次挥手](https://juejin.im/post/5b29d2c4e51d4558b80b1d8c)
 
