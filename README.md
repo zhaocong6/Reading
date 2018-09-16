@@ -42,6 +42,8 @@
 
 ## redis
 
+[Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
+
 [Redis 深度历险：核心原理与应用实践](https://juejin.im/book/5afc2e5f6fb9a07a9b362527)
 
 [互联网公司面试必问的Redis题目](https://juejin.im/post/5b99d4bce51d450e7a24b66e#heading-0)
@@ -49,6 +51,8 @@
 [Redis 事务与 Redis Lua 脚本的编写](http://techlog.cn/article/list/10183180)
 
 [Redis 设计与实现](http://redisbook.com/)
+
+[Lua 教程](http://www.runoob.com/lua/lua-tutorial.html)
 
 ## tcp/ip
 [跟着动画来学习TCP三次握手和四次挥手](https://juejin.im/post/5b29d2c4e51d4558b80b1d8c)
