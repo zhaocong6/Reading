@@ -93,6 +93,8 @@
 
 [Web App Token 鉴权方案的设计与思考](https://zhuanlan.zhihu.com/p/28295641)
 
+[理解RESTful架构](http://www.ruanyifeng.com/blog/2011/09/restful.html)
+
 ## 中间件
 
 [浅谈消息队列及常见的消息](https://juejin.im/post/5b41fe36e51d45191252e79e)
