@@ -55,9 +55,12 @@
 [Lua 教程](http://www.runoob.com/lua/lua-tutorial.html)
 
 ## tcp/ip
+
 [跟着动画来学习TCP三次握手和四次挥手](https://juejin.im/post/5b29d2c4e51d4558b80b1d8c)
 
 [看图学HTTPS](https://blog.liuxuan.site/2018/05/21/learn_https_through_photos/)
+
+[如何优雅的谈论HTTP／1.0／1.1／2.0](https://www.jianshu.com/p/52d86558ca57)
 
 ## mysql
 
