@@ -106,3 +106,7 @@
 ## MongoDb
 
 [MongoDB与MySQL的插入、查询性能测试](https://blog.csdn.net/tianyaleixiaowu/article/details/73504335)
+
+## 加密/hash
+
+[Hash 函数及其重要性](http://www.cnblogs.com/hazir/p/hash_function_and_its_importance.html#top)
