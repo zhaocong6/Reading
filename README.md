@@ -17,6 +17,8 @@
 
 [垃圾回收机制](http://php.net/manual/zh/features.gc.php)
 
+[PHP-FPM 调优：为了高性能使用 pm static](https://laravel-china.org/articles/10997/php-fpm-tuning-use-pm-static-for-high-performance)
+
 ## laravel
 [Laravel 中多态关系的表单验证](https://laravel-china.org/articles/12449/form-validation-of-polymorphic-relationships-in-laravel)
 
