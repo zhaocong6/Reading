@@ -72,7 +72,7 @@
 
 [记住，永远不要在 MySQL 中使用 “utf8” 编码](https://laravel-china.org/topics/13864/remember-never-use-utf8-encoding-in-mysql)
 
-[数据库中查询记录时是否每次只能使用一个索引？](https://segmentfault.com/q/1010000003880137)
+[数据库中查询记录时是否每次只能使用一个索引？](https://segmentfault.com/q/1010000003880137) 5.1以上版本请看下一条
 
 [MySQL 优化之 index merge(索引合并)](http://www.cnblogs.com/digdeep/archive/2015/11/18/4975977.html)
 
