@@ -112,3 +112,7 @@
 ## 加密/hash
 
 [Hash 函数及其重要性](http://www.cnblogs.com/hazir/p/hash_function_and_its_importance.html#top)
+
+## swoole
+
+[Swoole笔记](https://www.cnblogs.com/52fhy/p/6931261.html)
