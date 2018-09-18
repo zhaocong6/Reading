@@ -54,6 +54,8 @@
 
 [Lua 教程](http://www.runoob.com/lua/lua-tutorial.html)
 
+[Redis 和 I/O 多路复用](https://draveness.me/redis-io-multiplexing)
+
 ## tcp/ip
 
 [跟着动画来学习TCP三次握手和四次挥手](https://juejin.im/post/5b29d2c4e51d4558b80b1d8c)
