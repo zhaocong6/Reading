@@ -82,6 +82,8 @@
 
 [MySQL 优化之 index merge(索引合并)](http://www.cnblogs.com/digdeep/archive/2015/11/18/4975977.html)
 
+[58到家MySQL军规升级版](https://mp.weixin.qq.com/s/YfCORbcCX1hymXBCrZbAZg)
+
 ## git
 
 [Git教程(廖雪峰)](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
