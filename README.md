@@ -118,3 +118,7 @@
 ## swoole
 
 [Swoole笔记](https://www.cnblogs.com/52fhy/p/6931261.html)
+
+## 其他
+
+[金融系统为什么只保留两位小数，如果产生多余两位小数位的金额怎么办？](https://segmentfault.com/q/1010000007519197)
