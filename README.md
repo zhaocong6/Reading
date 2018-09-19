@@ -122,3 +122,4 @@
 ## 其他
 
 [金融系统为什么只保留两位小数，如果产生多余两位小数位的金额怎么办？](https://segmentfault.com/q/1010000007519197)
+[四舍五入不可取！结算金额，如何保证精确？](https://www.insp.top/article/how-to-ensure-accurate-for-digital-transformation)
