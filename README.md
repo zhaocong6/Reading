@@ -19,6 +19,8 @@
 
 [PHP-FPM 调优：为了高性能使用 pm static](https://laravel-china.org/articles/10997/php-fpm-tuning-use-pm-static-for-high-performance)
 
+[搞不清FastCgi与PHP-fpm之间是个什么样的关系](https://segmentfault.com/q/1010000000256516)
+
 ## laravel
 [Laravel 中多态关系的表单验证](https://laravel-china.org/articles/12449/form-validation-of-polymorphic-relationships-in-laravel)
 
