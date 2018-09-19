@@ -21,6 +21,8 @@
 
 [搞不清FastCgi与PHP-fpm之间是个什么样的关系](https://segmentfault.com/q/1010000000256516)
 
+[ PHP 代码简洁之道 （ PHP Clean Code）](https://laravel-china.org/topics/7774/the-conciseness-of-the-php-code-php-clean-code)
+
 ## laravel
 [Laravel 中多态关系的表单验证](https://laravel-china.org/articles/12449/form-validation-of-polymorphic-relationships-in-laravel)
 
