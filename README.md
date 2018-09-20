@@ -132,3 +132,5 @@
 [四舍五入不可取！结算金额，如何保证精确？](https://www.insp.top/article/how-to-ensure-accurate-for-digital-transformation)
 
 [如何降低软件的复杂性？](http://www.ruanyifeng.com/blog/2018/09/complexity.html)
+
+[Vue2 后台管理系统解决方案](https://segmentfault.com/a/1190000008582706)
