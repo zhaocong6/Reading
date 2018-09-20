@@ -46,6 +46,8 @@
 
 [PHP / Laravel 社区文档](https://laravel-china.org/docs)
 
+[如何理解 Laravel 的 IoC 容器](https://laravel-china.org/articles/4076/how-to-understand-laravels-ioc-container)
+
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
