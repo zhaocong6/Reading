@@ -46,8 +46,6 @@
 
 [PHP / Laravel 社区文档](https://laravel-china.org/docs)
 
-[详解 Laravel 源码中优秀的设计模式](https://juejin.im/book/5a261d8f5188253ee45b4b21)
-
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
