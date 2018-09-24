@@ -86,6 +86,7 @@
 
 [58到家MySQL军规升级版](https://mp.weixin.qq.com/s/YfCORbcCX1hymXBCrZbAZg)
 
+[数据库两个神器【索引和锁】](https://segmentfault.com/a/1190000015738121#articleHeader10)
 ## git
 
 [Git教程(廖雪峰)](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
