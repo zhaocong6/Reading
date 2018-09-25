@@ -23,6 +23,8 @@
 
 [ PHP 代码简洁之道 （ PHP Clean Code）](https://laravel-china.org/topics/7774/the-conciseness-of-the-php-code-php-clean-code)
 
+[聊聊加密那点事 —— PHP 加密最佳实践](https://laravel-china.org/articles/4499/talk-about-encryption-that-thing-php-encryption-best-practice)
+
 ## laravel
 [Laravel 中多态关系的表单验证](https://laravel-china.org/articles/12449/form-validation-of-polymorphic-relationships-in-laravel)
 
@@ -87,6 +89,7 @@
 [58到家MySQL军规升级版](https://mp.weixin.qq.com/s/YfCORbcCX1hymXBCrZbAZg)
 
 [数据库两个神器【索引和锁】](https://segmentfault.com/a/1190000015738121#articleHeader10)
+
 ## git
 
 [Git教程(廖雪峰)](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
