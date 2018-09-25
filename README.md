@@ -25,6 +25,8 @@
 
 [聊聊加密那点事 —— PHP 加密最佳实践](https://laravel-china.org/articles/4499/talk-about-encryption-that-thing-php-encryption-best-practice)
 
+[php中fastcgi和php-fpm是什么东西](https://www.zybuluo.com/phper/note/50231)
+
 ## laravel
 [Laravel 中多态关系的表单验证](https://laravel-china.org/articles/12449/form-validation-of-polymorphic-relationships-in-laravel)
 
