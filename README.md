@@ -23,8 +23,6 @@
 
 [ PHP 代码简洁之道 （ PHP Clean Code）](https://laravel-china.org/topics/7774/the-conciseness-of-the-php-code-php-clean-code)
 
-[聊聊加密那点事 —— PHP 加密最佳实践](https://laravel-china.org/articles/4499/talk-about-encryption-that-thing-php-encryption-best-practice)
-
 [php中fastcgi和php-fpm是什么东西](https://www.zybuluo.com/phper/note/50231)
 
 [php-fpm的配置和优化](https://blog.csdn.net/skykingf/article/details/51957298)
@@ -130,6 +128,8 @@
 ## 加密/hash
 
 [Hash 函数及其重要性](http://www.cnblogs.com/hazir/p/hash_function_and_its_importance.html#top)
+
+[聊聊加密那点事 —— 加密最佳实践](https://laravel-china.org/articles/4499/talk-about-encryption-that-thing-php-encryption-best-practice)
 
 ## swoole
 
