@@ -27,6 +27,8 @@
 
 [php中fastcgi和php-fpm是什么东西](https://www.zybuluo.com/phper/note/50231)
 
+[php-fpm的配置和优化](https://blog.csdn.net/skykingf/article/details/51957298)
+
 ## laravel
 [Laravel 中多态关系的表单验证](https://laravel-china.org/articles/12449/form-validation-of-polymorphic-relationships-in-laravel)
 
