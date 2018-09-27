@@ -101,7 +101,10 @@
 [nginx平台初探](http://tengine.taobao.org/book/chapter_2.html)
 
 ## linux
+
 [Linux IO模式及 select、poll、epoll详解](https://segmentfault.com/a/1190000003063859?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare&from=timeline&isappinstalled=0#articleHeader20)
+
+[linux 使用curl命令访问url并模拟cookie](http://www.huilog.com/?p=896)
 
 ## 编程思想
 
