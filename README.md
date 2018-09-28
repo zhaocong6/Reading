@@ -68,6 +68,8 @@
 
 [Redis 和 I/O 多路复用](https://draveness.me/redis-io-multiplexing)
 
+[Redis的KEYS命令引起RDS数据库雪崩，RDS发生两次宕机，造成几百万的资金损失](https://mp.weixin.qq.com/s/SGOyGGfA6GOzxwD5S91hLw)
+
 ## tcp/ip
 
 [跟着动画来学习TCP三次握手和四次挥手](https://juejin.im/post/5b29d2c4e51d4558b80b1d8c)
