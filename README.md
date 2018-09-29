@@ -27,6 +27,8 @@
 
 [php-fpm的配置和优化](https://blog.csdn.net/skykingf/article/details/51957298)
 
+[这么小改一下，PHP json_decode内存节省70%](https://www.jianshu.com/p/67123c0c3f01)
+
 ## laravel
 [Laravel 中多态关系的表单验证](https://laravel-china.org/articles/12449/form-validation-of-polymorphic-relationships-in-laravel)
 
@@ -68,6 +70,8 @@
 
 [Redis 和 I/O 多路复用](https://draveness.me/redis-io-multiplexing)
 
+[Redis的KEYS命令引起RDS数据库雪崩，RDS发生两次宕机，造成几百万的资金损失](https://mp.weixin.qq.com/s/SGOyGGfA6GOzxwD5S91hLw)
+
 ## tcp/ip
 
 [跟着动画来学习TCP三次握手和四次挥手](https://juejin.im/post/5b29d2c4e51d4558b80b1d8c)
@@ -101,7 +105,10 @@
 [nginx平台初探](http://tengine.taobao.org/book/chapter_2.html)
 
 ## linux
+
 [Linux IO模式及 select、poll、epoll详解](https://segmentfault.com/a/1190000003063859?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare&from=timeline&isappinstalled=0#articleHeader20)
+
+[linux 使用curl命令访问url并模拟cookie](http://www.huilog.com/?p=896)
 
 ## 编程思想
 
@@ -148,3 +155,16 @@
 [如何降低软件的复杂性？](http://www.ruanyifeng.com/blog/2018/09/complexity.html)
 
 [如何提升防御 CC 攻击的能力](https://laravel-china.org/articles/4593/how-to-enhance-the-ability-to-defend-against-cc-attacks)
+
+## 前端
+
+[Jquery ajax, Axios, Fetch区别之我见](https://segmentfault.com/a/1190000012836882)
+
+[MVVM](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001475449022563a6591e6373324d1abd93e0e3fa04397f000)
+
+# 博主(感谢各位大佬的无私分享)
+
+[阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+[廖雪峰的官方网站](https://www.liaoxuefeng.com)
+[风雪之隅](http://www.laruence.com/)
+[小谈博客](https://blog.tanteng.me/tag/favorite/)
