@@ -159,3 +159,5 @@
 ## 前端
 
 [Jquery ajax, Axios, Fetch区别之我见](https://segmentfault.com/a/1190000012836882)
+
+[MVVM](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001475449022563a6591e6373324d1abd93e0e3fa04397f000)
