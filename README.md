@@ -56,6 +56,8 @@
 
 [Laravel 源码阅读指南 -- 外观模式](https://laravel-china.org/articles/15230/laravel-source-reading-guide-appearance-pattern)
 
+[Laravel最佳实践](https://github.com/kevinyan815/laravel_best_practices_cn)
+
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
