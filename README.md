@@ -58,6 +58,8 @@
 
 [Laravel最佳实践](https://github.com/kevinyan815/laravel_best_practices_cn)
 
+[laravel 学习笔记 —— 神奇的服务容器](https://www.insp.top/learn-laravel-container)
+
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
