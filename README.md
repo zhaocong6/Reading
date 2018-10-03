@@ -176,3 +176,4 @@
 [廖雪峰的官方网站](https://www.liaoxuefeng.com)
 [风雪之隅](http://www.laruence.com/)
 [小谈博客](https://blog.tanteng.me/tag/favorite/)
+[insp](https://www.insp.top)
