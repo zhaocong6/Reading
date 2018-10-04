@@ -128,6 +128,8 @@
 
 [控制反转（IOC）和依赖注入（DI）的区别](https://blog.csdn.net/doris_crazy/article/details/18353197)
 
+[OAuth2 深入介绍](https://www.zybuluo.com/wddpct/note/1130423)
+
 ## 中间件
 
 [浅谈消息队列及常见的消息](https://juejin.im/post/5b41fe36e51d45191252e79e)
