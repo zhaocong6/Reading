@@ -130,6 +130,8 @@
 
 [OAuth2 深入介绍](https://www.zybuluo.com/wddpct/note/1130423)
 
+[JWT 超详细分析](https://laravel-china.org/articles/17883)
+
 ## 中间件
 
 [浅谈消息队列及常见的消息](https://juejin.im/post/5b41fe36e51d45191252e79e)
