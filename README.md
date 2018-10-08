@@ -60,6 +60,8 @@
 
 [laravel 学习笔记 —— 神奇的服务容器](https://www.insp.top/learn-laravel-container)
 
+[Laravel核心代码学习](https://github.com/kevinyan815/Learning_Laravel_Kernel)
+
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
@@ -131,8 +133,6 @@
 [OAuth2 深入介绍](https://www.zybuluo.com/wddpct/note/1130423)
 
 [JWT 超详细分析](https://laravel-china.org/articles/17883)
-
-[RESTful API 最佳实践](http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html)
 
 ## 中间件
 
