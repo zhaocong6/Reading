@@ -58,6 +58,8 @@
 
 [Laravel最佳实践](https://github.com/kevinyan815/laravel_best_practices_cn)
 
+[laravel 学习笔记 —— 神奇的服务容器](https://www.insp.top/learn-laravel-container)
+
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
@@ -124,6 +126,12 @@
 
 [理解RESTful架构](http://www.ruanyifeng.com/blog/2011/09/restful.html)
 
+[控制反转（IOC）和依赖注入（DI）的区别](https://blog.csdn.net/doris_crazy/article/details/18353197)
+
+[OAuth2 深入介绍](https://www.zybuluo.com/wddpct/note/1130423)
+
+[JWT 超详细分析](https://laravel-china.org/articles/17883)
+
 ## 中间件
 
 [浅谈消息队列及常见的消息](https://juejin.im/post/5b41fe36e51d45191252e79e)
@@ -172,3 +180,4 @@
 [廖雪峰的官方网站](https://www.liaoxuefeng.com)
 [风雪之隅](http://www.laruence.com/)
 [小谈博客](https://blog.tanteng.me/tag/favorite/)
+[insp](https://www.insp.top)
