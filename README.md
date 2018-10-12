@@ -27,6 +27,8 @@
 
 [php-fpm的配置和优化](https://blog.csdn.net/skykingf/article/details/51957298)
 
+[php之道](http://laravel-china.github.io/php-the-right-way/?utm_source=laravel-china.org)
+
 ## laravel
 [Laravel 中多态关系的表单验证](https://laravel-china.org/articles/12449/form-validation-of-polymorphic-relationships-in-laravel)
 
