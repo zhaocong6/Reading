@@ -64,6 +64,8 @@
 
 [Laravel核心代码学习](https://github.com/kevinyan815/Learning_Laravel_Kernel)
 
+[十个 Laravel 5 程序优化技巧](https://laravel-china.org/articles/2020/ten-laravel-5-program-optimization-techniques)
+
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
