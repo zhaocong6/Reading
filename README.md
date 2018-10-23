@@ -162,6 +162,10 @@
 
 [Swoole笔记](https://www.cnblogs.com/52fhy/p/6931261.html)
 
+## Elasticsearch
+
+[Elasticsearch-PHP 中文文档](https://laravel-china.org/docs/elasticsearch-php/6.0)
+
 ## vue
 
 [Vue2 后台管理系统解决方案](https://segmentfault.com/a/1190000008582706)
