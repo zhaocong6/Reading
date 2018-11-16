@@ -172,6 +172,10 @@
 
 [Vue2 后台管理系统解决方案](https://segmentfault.com/a/1190000008582706)
 
+## docker
+
+[开发者必备的 Docker 实践指南](https://juejin.im/book/5b7ba116e51d4556f30b476c/section/5b7ba1176fb9a01a143fcf4a#heading-6)
+
 ## 其他
 
 [金融系统为什么只保留两位小数，如果产生多余两位小数位的金额怎么办？](https://segmentfault.com/q/1010000007519197)
