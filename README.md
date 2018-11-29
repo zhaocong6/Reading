@@ -84,15 +84,15 @@
 
 [Redis的KEYS命令引起RDS数据库雪崩，RDS发生两次宕机，造成几百万的资金损失](https://mp.weixin.qq.com/s/SGOyGGfA6GOzxwD5S91hLw)
 
-## tcp/ip/http
+[深入Redis持久化](https://segmentfault.com/a/1190000017193732?utm_source=coffeephp.com)
+
+## tcp/ip
 
 [跟着动画来学习TCP三次握手和四次挥手](https://juejin.im/post/5b29d2c4e51d4558b80b1d8c)
 
 [看图学HTTPS](https://blog.liuxuan.site/2018/05/21/learn_https_through_photos/)
 
 [如何优雅的谈论HTTP／1.0／1.1／2.0](https://www.jianshu.com/p/52d86558ca57)
-
-[浏览器请求队列机制-请求为什么会阻塞](https://blog.csdn.net/rth362147773/article/details/78453131)
 
 ## mysql
 
@@ -171,10 +171,6 @@
 ## vue
 
 [Vue2 后台管理系统解决方案](https://segmentfault.com/a/1190000008582706)
-
-## docker
-
-[开发者必备的 Docker 实践指南](https://juejin.im/book/5b7ba116e51d4556f30b476c/section/5b7ba1176fb9a01a143fcf4a#heading-6)
 
 ## 其他
 
