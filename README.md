@@ -86,13 +86,15 @@
 
 [深入Redis持久化](https://segmentfault.com/a/1190000017193732?utm_source=coffeephp.com)
 
-## tcp/ip
+## tcp/ip/http
 
 [跟着动画来学习TCP三次握手和四次挥手](https://juejin.im/post/5b29d2c4e51d4558b80b1d8c)
 
 [看图学HTTPS](https://blog.liuxuan.site/2018/05/21/learn_https_through_photos/)
 
 [如何优雅的谈论HTTP／1.0／1.1／2.0](https://www.jianshu.com/p/52d86558ca57)
+
+[浏览器请求队列机制-请求为什么会阻塞](https://blog.csdn.net/rth362147773/article/details/78453131)
 
 ## mysql
 
@@ -110,6 +112,9 @@
 
 [数据库两个神器【索引和锁】](https://segmentfault.com/a/1190000015738121#articleHeader10)
 
+## docker
+ [开发者必备的 Docker 实践指南](https://juejin.im/book/5b7ba116e51d4556f30b476c/section/5b7ba1176fb9a01a143fcf4a#heading-6)
+ 
 ## git
 
 [Git教程(廖雪峰)](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
