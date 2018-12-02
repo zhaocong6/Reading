@@ -147,9 +147,14 @@
 
 [RESTful API 最佳实践](http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html)
 
+## 分布式并发锁
+
+[分布式并发锁](https://github.com/zhaocong6/lock)
+
 ## 中间件
 
 [浅谈消息队列及常见的消息](https://juejin.im/post/5b41fe36e51d45191252e79e)
+[每秒上千订单场景下的分布式锁高并发优化实践](https://juejin.im/post/5bf6b40de51d4536656f1f28)
 
 ## 系统原理
 
