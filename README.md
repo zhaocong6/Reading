@@ -112,6 +112,9 @@
 
 [数据库两个神器【索引和锁】](https://segmentfault.com/a/1190000015738121#articleHeader10)
 
+[MySQL优化原理](https://juejin.im/entry/5ad6e5cd6fb9a028cc61c136)
+
+
 ## docker
  [开发者必备的 Docker 实践指南](https://juejin.im/book/5b7ba116e51d4556f30b476c/section/5b7ba1176fb9a01a143fcf4a#heading-6)
  
