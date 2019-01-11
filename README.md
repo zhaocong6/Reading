@@ -31,6 +31,8 @@
 
 [用PHP玩转进程之二 — 多进程PHPServer](https://www.fanhaobai.com/2018/09/process-php-multiprocess-server.html)
 
+[让子弹飞~利用 OPcache 扩展提升 PHP7 性能 | Laravel 篇](https://laravel-china.org/articles/18782)
+
 ## laravel
 [Laravel 中多态关系的表单验证](https://laravel-china.org/articles/12449/form-validation-of-polymorphic-relationships-in-laravel)
 
