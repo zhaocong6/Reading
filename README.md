@@ -33,6 +33,8 @@
 
 [让子弹飞~利用 OPcache 扩展提升 PHP7 性能 | Laravel 篇](https://laravel-china.org/articles/18782)
 
+[php使用try{} catch(Exception $e){}未捕获到异常之PDO了解](https://www.jianshu.com/p/edf1507adcd1)
+
 ## laravel
 [Laravel 中多态关系的表单验证](https://laravel-china.org/articles/12449/form-validation-of-polymorphic-relationships-in-laravel)
 
