@@ -70,6 +70,7 @@
 
 [十个 Laravel 5 程序优化技巧](https://laravel-china.org/articles/2020/ten-laravel-5-program-optimization-techniques)
 
+[分享 10 个你可能不知道的 Laravel Eloquent 小技巧](https://laravel-china.org/topics/22639)
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
