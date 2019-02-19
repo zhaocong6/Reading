@@ -105,6 +105,8 @@
 
 [TCP 协议简介](http://www.ruanyifeng.com/blog/2017/06/tcp-protocol.html)
 
+[都9102年了，还问GET和POST的区别](https://segmentfault.com/a/1190000018129846)
+
 ## mysql
 
 [《阿里巴巴JAVA开发手册》里面写超过三张表禁止join 这是为什么？这样的话那sql要怎么写？](https://www.zhihu.com/question/56236190/answer/153450286)
