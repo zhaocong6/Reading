@@ -125,6 +125,8 @@
 
 [数据库索引是什么？新华字典来帮你](https://juejin.im/post/5c67be206fb9a049b13ebdbe)
 
+[在MySQL中如何使用覆盖索引优化limit分页查询](https://www.jianshu.com/p/c6290e65d8b5)
+
 
 ## docker
  [开发者必备的 Docker 实践指南](https://juejin.im/book/5b7ba116e51d4556f30b476c/section/5b7ba1176fb9a01a143fcf4a#heading-6)
