@@ -123,6 +123,8 @@
 
 [MySQL优化原理](https://juejin.im/entry/5ad6e5cd6fb9a028cc61c136)
 
+[数据库索引是什么？新华字典来帮你](https://juejin.im/post/5c67be206fb9a049b13ebdbe)
+
 
 ## docker
  [开发者必备的 Docker 实践指南](https://juejin.im/book/5b7ba116e51d4556f30b476c/section/5b7ba1176fb9a01a143fcf4a#heading-6)
