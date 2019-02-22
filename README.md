@@ -129,6 +129,7 @@
 
 [在MySQL中如何使用覆盖索引优化limit分页查询](https://www.jianshu.com/p/c6290e65d8b5)
 
+[E-commerce 中促销系统的设计](https://learnku.com/articles/21623)
 
 ## docker
  [开发者必备的 Docker 实践指南](https://juejin.im/book/5b7ba116e51d4556f30b476c/section/5b7ba1176fb9a01a143fcf4a#heading-6)
