@@ -232,6 +232,7 @@
 ## 微服务
 
 [什么是服务熔断](https://blog.csdn.net/moakun/article/details/80222325)
+[微服务架构理念](https://doc.hyperf.io/#/zh/microservice?id=%e5%be%88%e5%b0%8f%ef%bc%8c%e4%b8%93%e6%b3%a8%e5%81%9a%e5%a5%bd%e4%b8%80%e4%bb%b6%e4%ba%8b)
 
 ## 博主(感谢各位大佬的无私分享)
 
