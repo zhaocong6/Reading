@@ -229,6 +229,10 @@
 
 [Hyperf](https://doc.hyperf.io/#/)
 
+## 微服务
+
+[什么是服务熔断](https://blog.csdn.net/moakun/article/details/80222325)
+
 ## 博主(感谢各位大佬的无私分享)
 
 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
