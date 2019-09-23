@@ -182,6 +182,7 @@
 
 [异步、并发、协程原理](https://www.fanhaobai.com/2017/11/synchronised-asynchronized-coroutine.html)
 [请解释一下什么是虚拟内存](https://mp.weixin.qq.com/s/9K_cmRMF3imBTjgNG-hd5w)
+[Cache 和 Buffer 都是缓存，主要区别是什么？](https://www.zhihu.com/question/26190832/answer/830615125)
 
 ## MongoDb
 
