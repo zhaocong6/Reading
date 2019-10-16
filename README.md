@@ -169,6 +169,9 @@
 
 [RESTful API 最佳实践](http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html)
 
+[PHP系列学习之AOP](https://www.cnblogs.com/baochuan/archive/2012/08/22/2644529.html)
+
+[hyperf aop](https://doc.hyperf.io/#/zh/aop)
 ## 分布式并发锁
 
 [分布式并发锁](https://github.com/zhaocong6/lock)
