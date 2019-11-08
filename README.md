@@ -91,7 +91,7 @@
 
 [深入Redis持久化](https://segmentfault.com/a/1190000017193732?utm_source=coffeephp.com)
 
-## tcp/ip/http
+## tcp/ip/http等等网络协议
 
 [跟着动画来学习TCP三次握手和四次挥手](https://juejin.im/post/5b29d2c4e51d4558b80b1d8c)
 
@@ -106,6 +106,8 @@
 [TCP 协议简介](http://www.ruanyifeng.com/blog/2017/06/tcp-protocol.html)
 
 [都9102年了，还问GET和POST的区别](https://segmentfault.com/a/1190000018129846)
+
+[WebSocket：5分钟从入门到精通](https://segmentfault.com/a/1190000012709475)
 
 ## mysql
 
