@@ -91,7 +91,7 @@
 
 [深入Redis持久化](https://segmentfault.com/a/1190000017193732?utm_source=coffeephp.com)
 
-## tcp/ip/http等等网络协议
+## 网络协议
 
 [跟着动画来学习TCP三次握手和四次挥手](https://juejin.im/post/5b29d2c4e51d4558b80b1d8c)
 
