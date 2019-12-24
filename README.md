@@ -31,6 +31,10 @@
 
 [用PHP玩转进程之二 — 多进程PHPServer](https://www.fanhaobai.com/2018/09/process-php-multiprocess-server.html)
 
+[让子弹飞~利用 OPcache 扩展提升 PHP7 性能 | Laravel 篇](https://laravel-china.org/articles/18782)
+
+[php使用try{} catch(Exception $e){}未捕获到异常之PDO了解](https://www.jianshu.com/p/edf1507adcd1)
+
 ## laravel
 [Laravel 中多态关系的表单验证](https://laravel-china.org/articles/12449/form-validation-of-polymorphic-relationships-in-laravel)
 
@@ -66,6 +70,11 @@
 
 [十个 Laravel 5 程序优化技巧](https://laravel-china.org/articles/2020/ten-laravel-5-program-optimization-techniques)
 
+[分享 10 个你可能不知道的 Laravel Eloquent 小技巧](https://laravel-china.org/topics/22639)
+
+## golang
+[Go 入门指南](https://learnku.com/docs/the-way-to-go)
+
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
@@ -86,7 +95,7 @@
 
 [深入Redis持久化](https://segmentfault.com/a/1190000017193732?utm_source=coffeephp.com)
 
-## tcp/ip/http
+## 网络协议
 
 [跟着动画来学习TCP三次握手和四次挥手](https://juejin.im/post/5b29d2c4e51d4558b80b1d8c)
 
@@ -95,6 +104,14 @@
 [如何优雅的谈论HTTP／1.0／1.1／2.0](https://www.jianshu.com/p/52d86558ca57)
 
 [浏览器请求队列机制-请求为什么会阻塞](https://blog.csdn.net/rth362147773/article/details/78453131)
+
+[HTTP 协议入门](http://www.ruanyifeng.com/blog/2016/08/http.html)
+
+[TCP 协议简介](http://www.ruanyifeng.com/blog/2017/06/tcp-protocol.html)
+
+[都9102年了，还问GET和POST的区别](https://segmentfault.com/a/1190000018129846)
+
+[WebSocket：5分钟从入门到精通](https://segmentfault.com/a/1190000012709475)
 
 ## mysql
 
@@ -112,8 +129,19 @@
 
 [数据库两个神器【索引和锁】](https://segmentfault.com/a/1190000015738121#articleHeader10)
 
+[MySQL优化原理](https://juejin.im/entry/5ad6e5cd6fb9a028cc61c136)
+
+[数据库索引是什么？新华字典来帮你](https://juejin.im/post/5c67be206fb9a049b13ebdbe)
+
+[在MySQL中如何使用覆盖索引优化limit分页查询](https://www.jianshu.com/p/c6290e65d8b5)
+
+[E-commerce 中促销系统的设计](https://learnku.com/articles/21623)
+
+[Mysql索引机制(B+Tree)](https://www.cnblogs.com/wuzhenzhao/p/10341114.html)
+
 ## docker
  [开发者必备的 Docker 实践指南](https://juejin.im/book/5b7ba116e51d4556f30b476c/section/5b7ba1176fb9a01a143fcf4a#heading-6)
+ [docker 搭建lnmp环境](https://segmentfault.com/a/1190000019423975)
  
 ## git
 
@@ -147,6 +175,9 @@
 
 [RESTful API 最佳实践](http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html)
 
+[PHP系列学习之AOP](https://www.cnblogs.com/baochuan/archive/2012/08/22/2644529.html)
+
+[hyperf aop](https://doc.hyperf.io/#/zh/aop)
 ## 分布式并发锁
 
 [分布式并发锁](https://github.com/zhaocong6/lock)
@@ -155,10 +186,13 @@
 ## 中间件
 
 [浅谈消息队列及常见的消息](https://juejin.im/post/5b41fe36e51d45191252e79e)
+[RabbitMQ 中文文档](http://rabbitmq.mr-ping.com/)
 
 ## 系统原理
 
 [异步、并发、协程原理](https://www.fanhaobai.com/2017/11/synchronised-asynchronized-coroutine.html)
+[请解释一下什么是虚拟内存](https://mp.weixin.qq.com/s/9K_cmRMF3imBTjgNG-hd5w)
+[Cache 和 Buffer 都是缓存，主要区别是什么？](https://www.zhihu.com/question/26190832/answer/830615125)
 
 ## MongoDb
 
@@ -198,6 +232,23 @@
 
 [MVVM](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001475449022563a6591e6373324d1abd93e0e3fa04397f000)
 
+## 书籍
+
+高性能mysql
+
+大话数据结构
+
+## swoole协程框架
+
+[Hyperf](https://doc.hyperf.io/#/)
+
+## 微服务
+
+[什么是服务熔断](https://blog.csdn.net/moakun/article/details/80222325)
+[微服务架构理念](https://doc.hyperf.io/#/zh/microservice?id=%e5%be%88%e5%b0%8f%ef%bc%8c%e4%b8%93%e6%b3%a8%e5%81%9a%e5%a5%bd%e4%b8%80%e4%bb%b6%e4%ba%8b)
+
+## 其他数据库
+[InfluxDB中文文档](https://jasper-zhang1.gitbooks.io/influxdb/content/)
 ## 博主(感谢各位大佬的无私分享)
 
 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
