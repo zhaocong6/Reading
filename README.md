@@ -78,6 +78,8 @@
 [golang调度模型](https://tonybai.com/2017/06/23/an-intro-about-goroutine-scheduler/)
 
 [Golang并发原理及GPM调度策略（一）](https://www.cnblogs.com/mokafamily/p/9975980.html)
+
+[go语言圣经 中文翻译](https://yar999.gitbooks.io/gopl-zh)
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
