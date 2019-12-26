@@ -139,6 +139,8 @@
 
 [Mysql索引机制(B+Tree)](https://www.cnblogs.com/wuzhenzhao/p/10341114.html)
 
+[浅析乐观锁与悲观锁)](https://learnku.com/articles/27880)
+
 ## docker
  [开发者必备的 Docker 实践指南](https://juejin.im/book/5b7ba116e51d4556f30b476c/section/5b7ba1176fb9a01a143fcf4a#heading-6)
  [docker 搭建lnmp环境](https://segmentfault.com/a/1190000019423975)
