@@ -75,6 +75,9 @@
 ## golang
 [Go 入门指南](https://learnku.com/docs/the-way-to-go)
 
+[golang调度模型](https://tonybai.com/2017/06/23/an-intro-about-goroutine-scheduler/)
+
+[Golang并发原理及GPM调度策略（一）](https://www.cnblogs.com/mokafamily/p/9975980.html)
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
