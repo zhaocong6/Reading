@@ -144,9 +144,12 @@
 
 [Mysql索引机制(B+Tree)](https://www.cnblogs.com/wuzhenzhao/p/10341114.html)
 
+[浅析乐观锁与悲观锁)](https://learnku.com/articles/27880)
+
 ## docker
- [开发者必备的 Docker 实践指南](https://juejin.im/book/5b7ba116e51d4556f30b476c/section/5b7ba1176fb9a01a143fcf4a#heading-6)
- [docker 搭建lnmp环境](https://segmentfault.com/a/1190000019423975)
+[开发者必备的 Docker 实践指南](https://juejin.im/book/5b7ba116e51d4556f30b476c/section/5b7ba1176fb9a01a143fcf4a#heading-6)
+ 
+[docker 搭建lnmp环境](https://segmentfault.com/a/1190000019423975)
  
 ## git
 
@@ -250,6 +253,7 @@
 ## 微服务
 
 [什么是服务熔断](https://blog.csdn.net/moakun/article/details/80222325)
+
 [微服务架构理念](https://doc.hyperf.io/#/zh/microservice?id=%e5%be%88%e5%b0%8f%ef%bc%8c%e4%b8%93%e6%b3%a8%e5%81%9a%e5%a5%bd%e4%b8%80%e4%bb%b6%e4%ba%8b)
 
 ## 其他数据库
