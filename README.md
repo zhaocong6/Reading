@@ -80,6 +80,8 @@
 [Golang并发原理及GPM调度策略（一）](https://www.cnblogs.com/mokafamily/p/9975980.html)
 
 [go语言圣经 中文翻译](https://yar999.gitbooks.io/gopl-zh)
+
+[Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
