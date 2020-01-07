@@ -84,6 +84,8 @@
 [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
 
 [Golang－ import 导入包的几种方式：点，别名与下划线](https://blog.csdn.net/iteye_15425/article/details/82726595)
+
+[Golang结构体中Tag的使用](https://blog.csdn.net/yjp19871013/article/details/81258609)
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
