@@ -86,6 +86,8 @@
 [Golang－ import 导入包的几种方式：点，别名与下划线](https://blog.csdn.net/iteye_15425/article/details/82726595)
 
 [Golang结构体中Tag的使用](https://blog.csdn.net/yjp19871013/article/details/81258609)
+
+[Gin实战](https://github.com/EDDYCJY/go-gin-example/blob/master/README_ZH.md)
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
