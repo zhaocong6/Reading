@@ -209,9 +209,12 @@
 ## 系统原理
 
 [异步、并发、协程原理](https://www.fanhaobai.com/2017/11/synchronised-asynchronized-coroutine.html)
+
 [请解释一下什么是虚拟内存](https://mp.weixin.qq.com/s/9K_cmRMF3imBTjgNG-hd5w)
+
 [Cache 和 Buffer 都是缓存，主要区别是什么？](https://www.zhihu.com/question/26190832/answer/830615125)
 
+[线程的3种实现方式--内核级线程, 用户级线程和混合型线程](https://blog.csdn.net/gatieme/article/details/51892437)
 ## MongoDb
 
 [MongoDB与MySQL的插入、查询性能测试](https://blog.csdn.net/tianyaleixiaowu/article/details/73504335)
