@@ -88,6 +88,8 @@
 [Golang结构体中Tag的使用](https://blog.csdn.net/yjp19871013/article/details/81258609)
 
 [Gin实战](https://github.com/EDDYCJY/go-gin-example/blob/master/README_ZH.md)
+
+[100 行写一个 go 的协程池 (任务池)](https://segmentfault.com/a/1190000021468353)
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
