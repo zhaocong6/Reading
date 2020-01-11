@@ -90,6 +90,8 @@
 [Gin实战](https://github.com/EDDYCJY/go-gin-example/blob/master/README_ZH.md)
 
 [100 行写一个 go 的协程池 (任务池)](https://segmentfault.com/a/1190000021468353)
+
+[Golang Channel最佳实践之基本规则](https://www.jianshu.com/p/5046bf8593c3)
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
