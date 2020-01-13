@@ -250,6 +250,7 @@
 
 [如何提升防御 CC 攻击的能力](https://laravel-china.org/articles/4593/how-to-enhance-the-ability-to-defend-against-cc-attacks)
 
+[如何重构“箭头型”代码](https://coolshell.cn/articles/17757.html)
 ## 前端
 
 [Jquery ajax, Axios, Fetch区别之我见](https://segmentfault.com/a/1190000012836882)
