@@ -96,6 +96,8 @@
 [golang 几种字符串的连接方式](https://www.jianshu.com/p/df92c0ee6cc8)
 
 [深入理解Go语言的Channels特性](https://www.s0nnet.com/archives/go-channels-behavior)
+
+[Go语言之Channels实际应用](https://www.s0nnet.com/archives/go-channels-practice)
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
