@@ -96,6 +96,10 @@
 [Golang Channel最佳实践之基本规则](https://www.jianshu.com/p/5046bf8593c3)
 
 [golang 几种字符串的连接方式](https://www.jianshu.com/p/df92c0ee6cc8)
+
+[深入理解Go语言的Channels特性](https://www.s0nnet.com/archives/go-channels-behavior)
+
+[Go语言之Channels实际应用](https://www.s0nnet.com/archives/go-channels-practice)
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
@@ -268,6 +272,10 @@
 
 大话数据结构
 
+Go语言编程
+
+Go语言高级编程
+
 ## swoole协程框架
 
 [Hyperf](https://doc.hyperf.io/#/)
@@ -277,6 +285,10 @@
 [什么是服务熔断](https://blog.csdn.net/moakun/article/details/80222325)
 
 [微服务架构理念](https://doc.hyperf.io/#/zh/microservice?id=%e5%be%88%e5%b0%8f%ef%bc%8c%e4%b8%93%e6%b3%a8%e5%81%9a%e5%a5%bd%e4%b8%80%e4%bb%b6%e4%ba%8b)
+
+## k8s
+
+[Kubernetes入门：Pod、节点、容器和集群都是什么？](https://zhuanlan.zhihu.com/p/32618563)
 
 ## 其他数据库
 [InfluxDB中文文档](https://jasper-zhang1.gitbooks.io/influxdb/content/)
