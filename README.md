@@ -100,6 +100,8 @@
 [深入理解Go语言的Channels特性](https://www.s0nnet.com/archives/go-channels-behavior)
 
 [Go语言之Channels实际应用](https://www.s0nnet.com/archives/go-channels-practice)
+
+[make和new的区别](https://mojotv.cn/tutorial/golang-make-or-new)
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
