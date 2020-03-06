@@ -37,6 +37,8 @@
 
 [使用内存硬盘(tmpfs)来加速你的网站](https://www.laruence.com/2020/02/15/4982.html)
 
+[php7.4 preload(预加载)](https://www.jianshu.com/p/71067e389433)
+
 ## laravel
 [Laravel 中多态关系的表单验证](https://laravel-china.org/articles/12449/form-validation-of-polymorphic-relationships-in-laravel)
 
