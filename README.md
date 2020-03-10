@@ -104,6 +104,8 @@
 [Go语言之Channels实际应用](https://www.s0nnet.com/archives/go-channels-practice)
 
 [make和new的区别](https://mojotv.cn/tutorial/golang-make-or-new)
+
+[golang操作redis、mysql大全](https://www.cnblogs.com/wdliu/p/9330278.html)
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
