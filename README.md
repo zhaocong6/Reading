@@ -108,6 +108,8 @@
 [golang操作redis、mysql大全](https://www.cnblogs.com/wdliu/p/9330278.html)
 
 [Golang(Go语言)中append函数返回值必须有变量接收的原因探究](https://blog.csdn.net/QQ245671051/article/details/50722823?utm_campaign=studygolang.com&utm_medium=studygolang.com&utm_source=studygolang.com)
+
+[go指针的坑--go指针作为参数无法改地址](https://www.cnblogs.com/codedoge/p/9895081.html)
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
