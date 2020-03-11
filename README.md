@@ -39,6 +39,8 @@
 
 [php7.4 preload(预加载)](https://www.jianshu.com/p/71067e389433)
 
+[PHP实现系统编程（三） --- 信号](https://blog.csdn.net/zhang197093/article/details/77527035)
+
 ## laravel
 [Laravel 中多态关系的表单验证](https://laravel-china.org/articles/12449/form-validation-of-polymorphic-relationships-in-laravel)
 
@@ -109,7 +111,7 @@
 
 [Golang(Go语言)中append函数返回值必须有变量接收的原因探究](https://blog.csdn.net/QQ245671051/article/details/50722823?utm_campaign=studygolang.com&utm_medium=studygolang.com&utm_source=studygolang.com)
 
-[go指针的坑--go指针作为参数无法改地址](https://www.cnblogs.com/codedoge/p/9895081.html)
+[go指针的坑--go指针作为参数无法改地址]()
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
