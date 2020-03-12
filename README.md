@@ -290,6 +290,12 @@ Go语言编程
 
 Go语言高级编程
 
+[Go 入门指南](https://learnku.com/docs/the-way-to-go)
+
+[高效的 Go 编程 Effective Go ](https://learnku.com/docs/effective-go/2020)
+
+Modern PHP
+
 ## swoole协程框架
 
 [Hyperf](https://doc.hyperf.io/#/)
