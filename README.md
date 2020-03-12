@@ -41,6 +41,8 @@
 
 [PHP实现系统编程（三） --- 信号](https://blog.csdn.net/zhang197093/article/details/77527035)
 
+[PHP FFI - 一种全新的PHP扩展方式](https://www.laruence.com/2020/03/11/5475.html)
+
 ## laravel
 [Laravel 中多态关系的表单验证](https://laravel-china.org/articles/12449/form-validation-of-polymorphic-relationships-in-laravel)
 
