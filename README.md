@@ -113,7 +113,9 @@
 
 [Golang(Go语言)中append函数返回值必须有变量接收的原因探究](https://blog.csdn.net/QQ245671051/article/details/50722823?utm_campaign=studygolang.com&utm_medium=studygolang.com&utm_source=studygolang.com)
 
-[go指针的坑--go指针作为参数无法改地址]()
+[go指针的坑--go指针作为参数无法改地址](https://www.cnblogs.com/codedoge/p/9895081.html)
+
+[Go Interfaces 使用教程](https://learnku.com/go/t/38843)
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
