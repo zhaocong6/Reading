@@ -256,7 +256,10 @@
 ## swoole
 
 [Swoole笔记](https://www.cnblogs.com/52fhy/p/6931261.html)
+
 [Swoole 4.4 协程抢占式调度器详解](https://segmentfault.com/a/1190000019253487)
+
+[基于swoole扩展实现真正的PHP数据库连接池](http://rango.swoole.com/archives/265)
 
 ## Elasticsearch
 
