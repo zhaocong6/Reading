@@ -80,6 +80,8 @@
 
 [分享 10 个你可能不知道的 Laravel Eloquent 小技巧](https://laravel-china.org/topics/22639)
 
+[Laravel 5 配置读写分离和源码分析](https://learnku.com/laravel/t/1879/laravel-5-configuration-read-and-write-separation-and-source-analysis)
+
 ## golang
 [Go 入门指南](https://learnku.com/docs/the-way-to-go)
 
