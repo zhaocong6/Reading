@@ -122,6 +122,8 @@
 [go语言学习笔记 — 接口 — 接口与类型相互转换：在接口和类型之间转换](https://blog.csdn.net/yjk13703623757/article/details/103094211)
 
 [Goroutine并发调度模型深度解析之手撸一个协程池](https://www.cnblogs.com/williamjie/p/9267741.html)
+
+[Golang并发：再也不愁选channel还是选锁](https://segmentfault.com/a/1190000017890174)
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
