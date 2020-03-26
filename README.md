@@ -313,6 +313,9 @@ Modern PHP
 
 Redis 深度历险：核心原理与应用实践
 
+开发者必备的 Docker 实践指南
+
+详解 Laravel 源码中优秀的设计模式
 ## swoole协程框架
 
 [Hyperf](https://doc.hyperf.io/#/)
