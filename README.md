@@ -311,6 +311,8 @@ Go语言高级编程
 
 Modern PHP
 
+Redis 深度历险：核心原理与应用实践
+
 ## swoole协程框架
 
 [Hyperf](https://doc.hyperf.io/#/)
