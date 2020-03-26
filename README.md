@@ -311,11 +311,13 @@ Go语言高级编程
 
 Modern PHP
 
-Redis 深度历险：核心原理与应用实践
+[Redis 深度历险：核心原理与应用实践](https://juejin.im/book/5afc2e5f6fb9a07a9b362527)
 
-开发者必备的 Docker 实践指南
+[开发者必备的 Docker 实践指南](https://juejin.im/book/5b7ba116e51d4556f30b476c)
 
-详解 Laravel 源码中优秀的设计模式
+[详解 Laravel 源码中优秀的设计模式](https://juejin.im/book/5a261d8f5188253ee45b4b21)
+
+[Go 编程实例 Go by Example](https://learnku.com/docs/gobyexample/2020)
 ## swoole协程框架
 
 [Hyperf](https://doc.hyperf.io/#/)
