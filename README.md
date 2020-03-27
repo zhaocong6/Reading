@@ -289,6 +289,8 @@
 
 [如何重构“箭头型”代码](https://coolshell.cn/articles/17757.html)
 
+[YAML 语言教程](http://www.ruanyifeng.com/blog/2016/07/yaml.html)
+
 ## 前端
 
 [Jquery ajax, Axios, Fetch区别之我见](https://segmentfault.com/a/1190000012836882)
