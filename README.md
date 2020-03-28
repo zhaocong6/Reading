@@ -128,6 +128,8 @@
 [golang 中fmt用法](https://blog.csdn.net/chenbaoke/article/details/39932845)
 
 [go语言坑之并发访问map](https://www.jianshu.com/p/10a998089486)
+
+[go中文文档](https://studygolang.com/pkgdoc)
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
