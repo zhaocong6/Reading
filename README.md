@@ -126,6 +126,8 @@
 [Golang并发：再也不愁选channel还是选锁](https://segmentfault.com/a/1190000017890174)
 
 [golang 中fmt用法](https://blog.csdn.net/chenbaoke/article/details/39932845)
+
+[go语言坑之并发访问map](https://www.jianshu.com/p/10a998089486)
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
