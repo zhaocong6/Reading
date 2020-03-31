@@ -338,6 +338,8 @@ Modern PHP
 
 [Go-gRPC 入门实践](https://jergoo.gitbooks.io/go-grpc-practice-guide/content/)
 
+[gRPC 官方文档中文版](http://doc.oschina.net/grpc?t=58008)
+
 ## k8s
 
 [Kubernetes入门：Pod、节点、容器和集群都是什么？](https://zhuanlan.zhihu.com/p/32618563)
