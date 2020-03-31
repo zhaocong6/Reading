@@ -336,6 +336,8 @@ Modern PHP
 
 [微服务架构理念](https://doc.hyperf.io/#/zh/microservice?id=%e5%be%88%e5%b0%8f%ef%bc%8c%e4%b8%93%e6%b3%a8%e5%81%9a%e5%a5%bd%e4%b8%80%e4%bb%b6%e4%ba%8b)
 
+[Go-gRPC 入门实践](https://jergoo.gitbooks.io/go-grpc-practice-guide/content/)
+
 ## k8s
 
 [Kubernetes入门：Pod、节点、容器和集群都是什么？](https://zhuanlan.zhihu.com/p/32618563)
