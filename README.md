@@ -134,6 +134,8 @@
 [golang中("import cycle not allowed")错误](https://blog.csdn.net/skh2015java/article/details/53943784)
 
 [go操作实例文档](http://www.topgoer.com/)
+
+[golang 通过reflect反射修改值](https://blog.csdn.net/lanyang123456/article/details/95238197)
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
