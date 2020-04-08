@@ -305,6 +305,7 @@
 
 [V2Ray客户端](https://tlanyan.me/v2ray-clients-download/)
 
+[为什么要用Go语言？](https://segmentfault.com/a/1190000022285902)
 ## 前端
 
 [Jquery ajax, Axios, Fetch区别之我见](https://segmentfault.com/a/1190000012836882)
