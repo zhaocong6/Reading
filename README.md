@@ -355,7 +355,7 @@ Modern PHP
 
 [从实践到原理，带你参透 gRPC](https://segmentfault.com/a/1190000019608421)
 
-[Zookeeper](https://www.cnblogs.com/wuxl360/category/874409.html)
+[Zookeeper学习](https://www.cnblogs.com/sunddenly/category/620563.html)
 
 ## k8s
 
