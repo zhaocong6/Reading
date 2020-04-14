@@ -138,6 +138,8 @@
 [golang 通过reflect反射修改值](https://blog.csdn.net/lanyang123456/article/details/95238197)
 
 [Go Modules 终极入门](https://eddycjy.com/posts/go/go-moduels/2020-02-28-go-modules/)
+
+[如何优雅的关闭 Go Channel「译」](https://v2ex.com/t/445147)
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
