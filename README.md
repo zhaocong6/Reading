@@ -314,6 +314,8 @@
 [为什么要用Go语言？](https://segmentfault.com/a/1190000022285902)
 
 [ubuntu下为APT设置代理](https://blog.csdn.net/lwbeyond/article/details/8431927)
+
+[Ubuntu18.04 LTS 安装minikube](https://blog.csdn.net/metheir/article/details/85108276)
 ## 前端
 
 [Jquery ajax, Axios, Fetch区别之我见](https://segmentfault.com/a/1190000012836882)
