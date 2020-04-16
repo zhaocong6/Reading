@@ -212,6 +212,8 @@
 [开发者必备的 Docker 实践指南](https://juejin.im/book/5b7ba116e51d4556f30b476c/section/5b7ba1176fb9a01a143fcf4a#heading-6)
  
 [docker 搭建lnmp环境](https://segmentfault.com/a/1190000019423975)
+
+[Docker php安装扩展步骤详解](https://www.cnblogs.com/yinguohai/p/11329273.html)
  
 ## git
 
