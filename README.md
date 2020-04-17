@@ -140,6 +140,8 @@
 [Go Modules 终极入门](https://eddycjy.com/posts/go/go-moduels/2020-02-28-go-modules/)
 
 [如何优雅的关闭 Go Channel「译」](https://v2ex.com/t/445147)
+
+[Uber Go 语言编码规范中文版. The Uber Go Style Guide .](https://github.com/xxjwxc/uber_go_guide_cn)
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
