@@ -262,7 +262,10 @@
 ## 中间件
 
 [浅谈消息队列及常见的消息](https://juejin.im/post/5b41fe36e51d45191252e79e)
+
 [RabbitMQ 中文文档](http://rabbitmq.mr-ping.com/)
+
+[rabbitmq死信队列详解与使用](https://blog.csdn.net/zhangcongyi420/article/details/100126666)
 
 ## 系统原理
 
