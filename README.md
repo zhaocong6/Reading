@@ -257,6 +257,7 @@
 ## 分布式并发锁
 
 [分布式并发锁](https://github.com/zhaocong6/lock)
+
 [每秒上千订单场景下的分布式锁高并发优化实践](https://juejin.im/post/5bf6b40de51d4536656f1f28)
 
 ## 中间件
@@ -267,6 +268,7 @@
 
 [rabbitmq死信队列详解与使用](https://blog.csdn.net/zhangcongyi420/article/details/100126666)
 
+[RabbitMQ进阶学习](https://blog.csdn.net/weixin_40792878/article/details/82720724)
 ## 系统原理
 
 [异步、并发、协程原理](https://www.fanhaobai.com/2017/11/synchronised-asynchronized-coroutine.html)
