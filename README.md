@@ -142,6 +142,7 @@
 [如何优雅的关闭 Go Channel「译」](https://v2ex.com/t/445147)
 
 [Uber Go 语言编码规范中文版. The Uber Go Style Guide .](https://github.com/xxjwxc/uber_go_guide_cn)
+
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
@@ -327,6 +328,9 @@
 [Ubuntu18.04 LTS 安装minikube](https://blog.csdn.net/metheir/article/details/85108276)
 
 [撮合引擎开发](https://keeganlee.me/tags/%E6%92%AE%E5%90%88%E5%BC%95%E6%93%8E/)
+
+[手把手带你用golang构建区块链（1）基本类型（翻译）](https://zhuanlan.zhihu.com/p/47748468)
+
 ## 前端
 
 [Jquery ajax, Axios, Fetch区别之我见](https://segmentfault.com/a/1190000012836882)
