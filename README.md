@@ -270,6 +270,8 @@
 [rabbitmq死信队列详解与使用](https://blog.csdn.net/zhangcongyi420/article/details/100126666)
 
 [RabbitMQ进阶学习](https://blog.csdn.net/weixin_40792878/article/details/82720724)
+
+[RabbitMQ学习（五）消息确认机制](https://blog.csdn.net/wqc19920906/article/details/82227164)
 ## 系统原理
 
 [异步、并发、协程原理](https://www.fanhaobai.com/2017/11/synchronised-asynchronized-coroutine.html)
