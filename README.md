@@ -272,6 +272,9 @@
 [RabbitMQ进阶学习](https://blog.csdn.net/weixin_40792878/article/details/82720724)
 
 [RabbitMQ学习（五）消息确认机制](https://blog.csdn.net/wqc19920906/article/details/82227164)
+
+[RabbitMQ之消息确认机制（事务+Confirm）](https://blog.csdn.net/u013256816/article/details/55515234)
+
 ## 系统原理
 
 [异步、并发、协程原理](https://www.fanhaobai.com/2017/11/synchronised-asynchronized-coroutine.html)
