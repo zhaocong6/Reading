@@ -213,6 +213,8 @@
 
 [前滚和回滚的区别](https://blog.csdn.net/haiross/article/details/17003543)
 
+[分布式事务科普（初识篇）](https://mp.weixin.qq.com/s?__biz=MzU0MzQ5MDA0Mw%3D%3D&chksm=fb0bf3adcc7c7abb565a9865e14b357888f7b7b78874b74c18bfdc5a4278ec2503b258c27730&idx=1&mid=2247489849&scene=21&sn=cbac2a6ad99ac466f2ba8d69507fd2fe#wechat_redirect)
+
 ## docker
 [开发者必备的 Docker 实践指南](https://juejin.im/book/5b7ba116e51d4556f30b476c/section/5b7ba1176fb9a01a143fcf4a#heading-6)
  
