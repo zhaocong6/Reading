@@ -283,6 +283,7 @@
 
 [RabbitMQ之消息持久化](https://blog.csdn.net/u013256816/article/details/60875666)
 
+[RabbitMQ之镜像队列](https://blog.csdn.net/u013256816/article/details/71097186)
 ## 系统原理
 
 [异步、并发、协程原理](https://www.fanhaobai.com/2017/11/synchronised-asynchronized-coroutine.html)
