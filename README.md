@@ -185,6 +185,8 @@
 
 [WebSocket：5分钟从入门到精通](https://segmentfault.com/a/1190000012709475)
 
+[一篇带你读懂TCP之“滑动窗口”协议](https://www.cnblogs.com/coder-programming/p/10627746.html)
+
 ## mysql
 
 [《阿里巴巴JAVA开发手册》里面写超过三张表禁止join 这是为什么？这样的话那sql要怎么写？](https://www.zhihu.com/question/56236190/answer/153450286)
