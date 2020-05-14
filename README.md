@@ -380,6 +380,8 @@ Modern PHP
 [详解 Laravel 源码中优秀的设计模式](https://juejin.im/book/5a261d8f5188253ee45b4b21)
 
 [Go 编程实例 Go by Example](https://learnku.com/docs/gobyexample/2020)
+
+[Concurrency in Go 中文笔记](https://www.kancloud.cn/mutouzhang/go)
 ## swoole协程框架
 
 [Hyperf](https://doc.hyperf.io/#/)
