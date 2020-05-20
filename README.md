@@ -382,6 +382,8 @@ Modern PHP
 [Go 编程实例 Go by Example](https://learnku.com/docs/gobyexample/2020)
 
 [Concurrency in Go 中文笔记](https://www.kancloud.cn/mutouzhang/go)
+
+MongoDB权威指南(第2版) 
 ## swoole协程框架
 
 [Hyperf](https://doc.hyperf.io/#/)
