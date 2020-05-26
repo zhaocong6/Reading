@@ -351,6 +351,8 @@
 
 [手把手带你用golang构建区块链（1）基本类型（翻译）](https://zhuanlan.zhihu.com/p/47748468)
 
+[使用keepalived实现双机热备](https://blog.csdn.net/kkdelta/article/details/39433137)
+
 ## 前端
 
 [Jquery ajax, Axios, Fetch区别之我见](https://segmentfault.com/a/1190000012836882)
