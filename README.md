@@ -265,6 +265,8 @@
 [hyperf aop](https://doc.hyperf.io/#/zh/aop)
 
 [为什么能有上百万个 Goroutines，却只能有上千个 Java 线程？](https://www.infoq.cn/article/a-million-go-routines-but-only-1000-java-threads)
+
+[MapReduce](https://baike.baidu.com/item/MapReduce/133425)
 ## 分布式并发锁
 
 [分布式并发锁](https://github.com/zhaocong6/lock)
