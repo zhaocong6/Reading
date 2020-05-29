@@ -273,6 +273,8 @@
 
 [每秒上千订单场景下的分布式锁高并发优化实践](https://juejin.im/post/5bf6b40de51d4536656f1f28)
 
+[Zookeeper实现分布式锁](https://blog.csdn.net/kongmin_123/article/details/82081953)
+
 ## 中间件
 
 [浅谈消息队列及常见的消息](https://juejin.im/post/5b41fe36e51d45191252e79e)
