@@ -242,6 +242,8 @@
 
 [linux 使用curl命令访问url并模拟cookie](http://www.huilog.com/?p=896)
 
+[Linux中的黑洞(black hole)-/dev/null](https://blog.csdn.net/loongshawn/article/details/50514018)
+
 ## 编程思想
 
 [理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
