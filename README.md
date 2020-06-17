@@ -192,6 +192,8 @@
 
 [一篇带你读懂TCP之“滑动窗口”协议](https://www.cnblogs.com/coder-programming/p/10627746.html)
 
+[【图解】你还在为 TCP 重传、滑动窗口、流量控制、拥塞控制发愁吗？看完图解就不愁了](https://www.cnblogs.com/xiaolincoding/p/12732052.html)
+
 ## mysql
 
 [《阿里巴巴JAVA开发手册》里面写超过三张表禁止join 这是为什么？这样的话那sql要怎么写？](https://www.zhihu.com/question/56236190/answer/153450286)
