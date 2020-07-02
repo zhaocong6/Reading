@@ -197,6 +197,8 @@
 [理解 Linux backlog/somaxconn 内核参数](https://jaminzhang.github.io/linux/understand-Linux-backlog-and-somaxconn-kernel-arguments/)
 
 [面试官：换人！他连 TCP 这几个参数都不懂](https://mp.weixin.qq.com/s?__biz=MzI0MjEwMDMzNQ==&mid=2652517821&idx=1&sn=c3a8ada06e720c6e709138f4f21c374e&chksm=f2efe4bdc5986dab53b9bfa6d6fa98023a3648477f37ea8c17f48bde0864c8ef1ea41fdac17a&scene=0&xtrack=1)
+
+[TCP/IP协议详解](https://blog.csdn.net/weixin_44198965/article/details/90083126)
 ## mysql
 
 [《阿里巴巴JAVA开发手册》里面写超过三张表禁止join 这是为什么？这样的话那sql要怎么写？](https://www.zhihu.com/question/56236190/answer/153450286)
