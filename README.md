@@ -172,6 +172,8 @@
 
 [海量数据和高并发下的 Redis 业务优化实践](https://juejin.im/post/5d0f3c2be51d45595319e355)
 
+[Redis 如何保持和MySQL数据一致](https://blog.csdn.net/Thousa_Ho/article/details/78900563)
+
 ## 网络协议
 
 [跟着动画来学习TCP三次握手和四次挥手](https://juejin.im/post/5b29d2c4e51d4558b80b1d8c)
