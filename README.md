@@ -83,6 +83,8 @@
 
 [Laravel 5 配置读写分离和源码分析](https://learnku.com/laravel/t/1879/laravel-5-configuration-read-and-write-separation-and-source-analysis)
 
+[深入讲解 Laravel 的 IoC 服务容器](https://learnku.com/laravel/t/27434)
+
 ## golang
 [Go 入门指南](https://learnku.com/docs/the-way-to-go)
 
