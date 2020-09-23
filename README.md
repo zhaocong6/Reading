@@ -85,6 +85,8 @@
 
 [深入讲解 Laravel 的 IoC 服务容器](https://learnku.com/laravel/t/27434)
 
+[laravel核心代码学习](https://github.com/kevinyan815/Learning_Laravel_Kernel)
+
 ## golang
 [Go 入门指南](https://learnku.com/docs/the-way-to-go)
 
