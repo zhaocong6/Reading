@@ -445,6 +445,8 @@ MongoDB权威指南(第2版)
 [gRPC及相关介绍连载](https://eddycjy.com/posts/go/grpc/2018-09-22-install/)
 
 [何时进行服务熔断、服务降级、服务限流](https://blog.csdn.net/llianlianpay/article/details/79768890)
+
+[常用的 分布式事务 都有哪些？我该用哪个？](https://juejin.cn/post/7012425995634343966)
 ## k8s
 
 [Kubernetes入门：Pod、节点、容器和集群都是什么？](https://zhuanlan.zhihu.com/p/32618563)
