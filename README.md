@@ -152,6 +152,7 @@
 
 [mongodb bson以及bson D中的一些操作参数](https://my.oschina.net/u/2939474/blog/3201320/print)
 
+[go实践十一 热重启服务](https://blog.csdn.net/daily886/article/details/96426004)
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
