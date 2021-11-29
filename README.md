@@ -155,6 +155,8 @@
 [go实践十一 热重启服务](https://blog.csdn.net/daily886/article/details/96426004)
 
 [7天用Go从零实现系列](https://geektutu.com/post/gee.html)
+
+[Go语言反射reflect](https://www.cnblogs.com/itbsl/p/10551880.html)
 ## redis
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
