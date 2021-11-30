@@ -396,6 +396,8 @@
 [使用keepalived实现双机热备](https://blog.csdn.net/kkdelta/article/details/39433137)
 
 [[翻译] ProtoBuf 官方文档（一）- 开发者指南](https://www.jianshu.com/p/bdd94a32fbd1)
+
+[如何读懂火焰图？](http://www.ruanyifeng.com/blog/2017/09/flame-graph.html)
 ## 前端
 
 [Jquery ajax, Axios, Fetch区别之我见](https://segmentfault.com/a/1190000012836882)
