@@ -313,6 +313,8 @@
 
 [浅谈消息队列及常见的消息](https://juejin.im/post/5b41fe36e51d45191252e79e)
 
+[Nsq](http://www.nsqio.cn/design.html)
+
 ## RabbitMQ
 
 [RabbitMQ 中文文档](http://rabbitmq.mr-ping.com/)
